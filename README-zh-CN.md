@@ -283,13 +283,13 @@ Avalon Safe 是一个希望持续探索的开源项目。
 
 ---
 
-## License
+## 开源协议
 
-Avalon Safe is licensed under the **Apache License 2.0**.
+Avalon Safe 采用 **Apache License 2.0** 开源协议。
 
-You are free to use, modify, and distribute the software in accordance with the terms of the license.
+你可以自由使用、修改和分发本软件，但须遵守协议条款。
 
-See the [LICENSE](LICENSE) file for the full license text.
+完整协议文本请查看 [LICENSE](LICENSE) 文件（英文，具有法律效力）。
 
 Copyright © 2026 Avalon Safe contributors.
 
