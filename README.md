@@ -6,6 +6,9 @@
 
 ### **Your private island for important documents.**
 
+<img src="assets/UI preview.png" width="1000" alt="Avalon Safe UI preview">
+
+
 [English](README.md) · [简体中文](README.zh-CN.md)
 
 </div>
