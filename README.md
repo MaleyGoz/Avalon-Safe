@@ -148,9 +148,8 @@ Areas we care about include:
 * Clear security boundaries between data and keys
 * Minimizing unnecessary reliance on third-party services
 
-### 🗂️ Document Management — Sealby
+### 🗂️ Document Management — iOS Files
 
-[Sealby](https://sealby.app/)
 
 Avalon Safe draws inspiration from Sealby's approach to private file management, including folders, tags, organization, and search.
 
@@ -166,7 +165,7 @@ We want documents to move naturally through:
 | ----------------------- | ------------ | -------------------------------------------- |
 | 📷 Capture & Scanning   | Open Scanner | Digitize physical documents                  |
 | 🔐 Encryption & Privacy | Cryptomator  | Protect important documents and private data |
-| 🗂️ Document Management | Sealby       | Organize and quickly find documents          |
+| 🗂️ Document Management | iOS Files       | Organize and quickly find documents          |
 
 These projects are **inspiration and technical references for Avalon Safe, not products to be copied or bundled together**.
 
